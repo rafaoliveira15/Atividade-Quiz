@@ -79,6 +79,10 @@ O site também conta com **animações suaves**, efeitos *hover* nas respostas e
 
 Rafaela Oliveira
 
+🌐 github.com/rafaoliveira15
+
+✉️ rafaelacristina1510.oliveira@gmail.com
+
 💚 Desenvolvido com PHP, magia e um toque de Wickedness!
 
 🎭 Projeto acadêmico com foco em lógica de programação e estilização web.
