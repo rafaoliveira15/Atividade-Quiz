@@ -78,5 +78,7 @@ O site também conta com **animações suaves**, efeitos *hover* nas respostas e
 ## 🧑‍💻 Autoria
 
 Rafaela Oliveira
+
 💚 Desenvolvido com PHP, magia e um toque de Wickedness!
+
 🎭 Projeto acadêmico com foco em lógica de programação e estilização web.
