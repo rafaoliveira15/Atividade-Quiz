@@ -71,7 +71,7 @@ O site também conta com **animações suaves**, efeitos *hover* nas respostas e
 
 | Tela Inicial | Perguntas do Quiz | Resultado Final | 
 |:-------------:|:----------------:|:----------------:|
-| <img width="300" height="300" alt="Tela Inicial - Quiz Wicked" src="https://github.com/user-attachments/assets/SEU-ID-TELA-INICIAL" /> | <img width="300" height="300" alt="Perguntas do Quiz - Quiz Wicked" src="https://github.com/user-attachments/assets/SEU-ID-PERGUNTAS" /> | <img width="300" height="300" alt="Resultado Final - Quiz Wicked" src="https://github.com/user-attachments/assets/SEU-ID-RESULTADO" /> |
+| <img width="300" height="300" alt="Captura de tela 2025-10-30 143737" src="https://github.com/user-attachments/assets/9dfc22d2-ff2f-4213-a637-435aa75fe341" /> | <img width="300" height="300" alt="Captura de tela 2025-10-30 143757" src="https://github.com/user-attachments/assets/eaae5adf-2f91-454c-b88c-8f2ff1348940" /> | <img width="300" height="300" alt="Captura de tela 2025-10-30 143942" src="https://github.com/user-attachments/assets/1e8abff2-ad92-4671-9db8-8bced5a477ec" /> |
 
 ---
 
