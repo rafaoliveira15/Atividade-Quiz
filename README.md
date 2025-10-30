@@ -67,6 +67,14 @@ O site também conta com **animações suaves**, efeitos *hover* nas respostas e
 
 ---
 
+## 🖥️ Capturas de Tela
+
+| Tela Inicial | Perguntas do Quiz | Resultado Final | 
+|:-------------:|:----------------:|:----------------:|
+| <img width="300" height="300" alt="Tela Inicial - Quiz Wicked" src="https://github.com/user-attachments/assets/SEU-ID-TELA-INICIAL" /> | <img width="300" height="300" alt="Perguntas do Quiz - Quiz Wicked" src="https://github.com/user-attachments/assets/SEU-ID-PERGUNTAS" /> | <img width="300" height="300" alt="Resultado Final - Quiz Wicked" src="https://github.com/user-attachments/assets/SEU-ID-RESULTADO" /> |
+
+---
+
 ## 🧑‍💻 Autoria
 
 Rafaela Oliveira
